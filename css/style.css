@@ -1,0 +1,50 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 40px 10px;
+  line-height: 1.65em;
+  background: #191919;
+  color: #fff;
+  font-weight: 300;
+
+}
+
+h1 {
+  text-align: center;
+  margin: 20% 0 5% 0;
+}
+
+h4 {
+  text-align: center;
+  margin: 20% 0 5% 0;
+}
+
+#wordbox {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 500px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    color: #black;
+    transition: 1s linear;
+}
+
+#button {
+  background: #0b7fba;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 0 auto 80px;
+    display: block;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: bold;
+}
